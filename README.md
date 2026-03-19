@@ -1,5 +1,7 @@
 <!-- 🧠 AI THEMED BANNER -->
-
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Ammogh1/Ammogh1/main/name.svg" alt="Ammogh" />
+</h1>
 
 <!-- 🎨 GRADIENT NAME -->
 <h1 align="center">
