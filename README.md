@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ammogh</h1>
+<h3 align="center">Aspiring Data Engineer | ML Enthusiast</h3>
 
-<!--
-**Ammogh1/Ammogh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👋 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💡 Passionate about Data Engineering & Machine Learning  
+- 📊 Love building data pipelines and ML models  
+- 🚀 Currently learning: AWS, Databricks, Advanced ML  
+- 🎯 Goal: Build impactful real-world AI systems  
+
+---
