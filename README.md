@@ -44,9 +44,34 @@ const ammogh = {
 
 ```
 
----
 
-# 🏢 STEP 4: Add Experience Section
+### 🛠️ Tech Stack
+
+#### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js" />
+  <img src="https://img.shields.io/badge/SQL-blue?style=flat&logo=postgresql" />
+</p>
+
+#### ⚙️ Data Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker" />
+  <img src="https://img.shields.io/badge/PySpark-orange?style=flat&logo=apachespark" />
+  <img src="https://img.shields.io/badge/Airflow-red?style=flat&logo=apacheairflow" />
+</p>
+
+#### 🧠 Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-orange?style=flat&logo=scikitlearn" />
+</p>
+
+#### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+---
 
 
 ### 💼 Professional Experience
@@ -69,6 +94,19 @@ const ammogh = {
 
 👉 Check out my repositories below!
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,sql,js,aws,docker,git,postgres" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,aws,docker,git,postgres" /> </p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/ammogh-ashok-a6b64622a/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:ammoghashok293@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> </p>
+---
+
+### 🔗 Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ammogh-ashok-a6b64622a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+  </a>
+  <a href="mailto:ammoghashok293@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+  </a>
+</p>
+
+---
