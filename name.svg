@@ -1,0 +1,22 @@
+<svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .small {
+      font: 600 32px 'Segoe UI', sans-serif;
+      fill: #c9d1d9;
+    }
+    .big {
+      font: 700 48px 'Segoe UI', sans-serif;
+      fill: url(#grad);
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#8A2BE2;stop-opacity:1"></stop>
+      <stop offset="100%" style="stop-color:#FF00FF;stop-opacity:1"></stop>
+    </linearGradient>
+  </defs>
+
+  <text x="20" y="50" class="small">Hi there, I'm</text>
+  <text x="20" y="95" class="big">Ammogh</text>
+</svg>
