@@ -74,25 +74,12 @@ const ammogh = {
 ---
 
 
-### 💼 Professional Experience
-
-- **Data/ML Projects (Student Level)**
-  - Built ML models for prediction tasks  
-  - Worked on data preprocessing and visualization  
-
-- **Internships / Labs**
-  - Developed APIs and worked with datasets  
-  - Created dashboards using Power BI  
-
----
 ### 🚀 Projects
 
 - 🧠 **[Brain Tumor Detection](https://github.com/Ammogh1/Brain-tumor-detection)**
 - ✈️ **[Airline Reservation System](https://github.com/Ammogh1/Airline-Reservation-System-Android)**
 - 🫁 **[Lung Cancer Prediction](https://github.com/Ammogh1/LungCancer)**
 - 🎓 **[Student Document Attestation System](https://github.com/Ammogh1/Student-Document-Attestation-System)**
-- ⚙️ **[MLOps Scripts](https://github.com/Ammogh1/MLOPS)**
-- 🔬 **[Deep Learning Lab & Basics](https://github.com/Ammogh1/DL-LAB)**
 
 👉 Check out my [repositories](https://github.com/Ammogh1?tab=repositories) below!
 
