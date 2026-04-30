@@ -87,12 +87,14 @@ const ammogh = {
 ---
 ### 🚀 Projects
 
-- 🎯 Facial Expression Recognition (CNN)
-- 🎬 Movie Recommendation System
-- 📰 Fake News Detection using NLP
-- 📊 Data Analysis using PySpark
+- 🧠 **[Brain Tumor Detection](https://github.com/Ammogh1/Brain-tumor-detection)**
+- ✈️ **[Airline Reservation System](https://github.com/Ammogh1/Airline-Reservation-System-Android)**
+- 🫁 **[Lung Cancer Prediction](https://github.com/Ammogh1/LungCancer)**
+- 🎓 **[Student Document Attestation System](https://github.com/Ammogh1/Student-Document-Attestation-System)**
+- ⚙️ **[MLOps Scripts](https://github.com/Ammogh1/MLOPS)**
+- 🔬 **[Deep Learning Lab & Basics](https://github.com/Ammogh1/DL-LAB)**
 
-👉 Check out my repositories below!
+👉 Check out my [repositories](https://github.com/Ammogh1?tab=repositories) below!
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,js,aws,docker,git,postgres" /> </p>
 
