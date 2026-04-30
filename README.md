@@ -10,11 +10,11 @@
   </span>
 </h1>
 
-<h3 align="center">🚀 Data Engineering & Machine Learning Enthusiast</h3>
+<h3 align="center">🚀 Artificial Intelligence & Machine Learning Enthusiast</h3>
 
 <!-- 🔥 TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineer;Machine+Learning+Enthusiast;Building+AI+Projects;Always+Learning&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial+Intelligence+enthusiast;Machine+Learning+Enthusiast;Building+AI+Projects;Always+Learning&center=true&width=500&height=45">
 </p>
 
 
